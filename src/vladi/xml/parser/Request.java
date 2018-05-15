@@ -1,6 +1,5 @@
 package vladi.xml.parser;
 
-import org.w3c.dom.Attr;
 
 import java.util.ArrayList;
 import java.util.Collections;
